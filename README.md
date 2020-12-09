@@ -25,11 +25,14 @@ Support at Yale:
 #### Data Analysis
 Data analysis = generating findings from your data. 
 
+An important part of data analysis includes data visualization (i.e., graphs).
+
 Support at Yale
 * Statistical help - [StatLab](https://marx.library.yale.edu/data-gis-statlab/statlab)
 * Bioinformatics help - [Bioinformatics Hub](https://library.medicine.yale.edu/bioinformatics)
 * High Performance Computing & Parellel Computing - [YCRC (Yale Center for Reserach Computing](https://research.computing.yale.edu/) 
 * Research & Analytics Clinics - [YCAS (Yale Center for Analytical Sciences)](https://publichealth.yale.edu/ycas/working/) 
+* Help designing and creating data visualizations - email medicaldata@yale.edu 
 
 #### Data Sharing / Retention 
 *Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.* [Yale Policy 6001 Research Data & Materials Policy](https://your.yale.edu/policies-procedures/policies/6001-research-data-materials-policy#:~:text=Generally%2C%20research%20data%20and%20materials,for%20the%20project%20have%20been) 
@@ -86,6 +89,8 @@ When you start to think about *how* you would actually engage with any of these 
 * Microsoft Excel - [Excel funtions](https://www.excel-easy.com/data-analysis.html) | [Data processing/analysis in Excel](https://www.excel-easy.com/data-analysis.html)
 * Python - email medicaldata@yale.edu for a workshop or tutorial based on your research needs
 * R - email medicaldata@yale.edu for a workshop or tutorial based on your research needs
+* Learn about different types and categories of graphs via the [Data Viz Catalogue](https://datavizcatalogue.com/)
+* Jump start your ability to create data visualizatins in R with [The R Graph Gallery](https://www.r-graph-gallery.com/) 
 
 #### Data Sharing / Retention Tools
 * [Interactive storage finder tool](https://storage-finder.yale.edu/)
