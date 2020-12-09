@@ -33,6 +33,7 @@ Support at Yale
 
 #### Data Sharing / Retention 
 *Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.*
+
         - Yale Policy 6001 Research Data & Materials Policy
 
 ## Research Data Management Lifecycle + Constant Themes
@@ -101,7 +102,7 @@ When you start to think about *how* you would actually engage with any of these 
 * [What are best practises related to file organization?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/file-organization.md) 
 * [Where can I connect with peers engaging in biomedical data science research?](https://medicine.yale.edu/cbds/)
 * [What about specific topics (training, software, hardware, and collaborative opportunities) in bioinformatics research?](https://library.medicine.yale.edu/bioinformatics)
-* How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services) 
+* [How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) -> Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services) 
 
 Have other questions? Email medicaldata@yale.edu 
 
