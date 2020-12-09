@@ -32,9 +32,7 @@ Support at Yale
 * Research & Analytics Clinics - [YCAS (Yale Center for Analytical Sciences)](https://publichealth.yale.edu/ycas/working/) 
 
 #### Data Sharing / Retention 
-*Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.*
-
-~ Yale Policy 6001 Research Data & Materials Policy
+*Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.* [Yale Policy 6001 Research Data & Materials Policy](https://your.yale.edu/policies-procedures/policies/6001-research-data-materials-policy#:~:text=Generally%2C%20research%20data%20and%20materials,for%20the%20project%20have%20been) 
 
 ## Research Data Management Lifecycle + Constant Themes
 <img src="https://github.com/CWML/research-data-management-cheat-sheet/blob/main/images/research-data-lifecycle-themes.png" alt="data lifecycle" width="600">
