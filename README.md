@@ -5,15 +5,29 @@ The research data management lifecycle is an illustration of the research proces
 
 <img src="https://github.com/CWML/research-data-management-cheat-sheet/blob/main/images/research-data-lifecycle.png" alt="data lifecycle" width="600">
 
-#### Project Planning
+##### Project Planning
 
-#### Data Creation / Collection
+##### Data Creation / Collection
 
-#### Data Processing
+##### Data Processing
 
-#### Data Analysis
+##### Data Analysis
 
-#### Data Sharing / Retention 
+##### Data Sharing / Retention 
+
+
+### Research Data Management Lifecycle + Constant Themes
+<img src="https://github.com/CWML/research-data-management-cheat-sheet/blob/main/images/research-data-lifecycle-themes.png" alt="data lifecycle" width="600">
+
+##### Version Control
+
+##### Documentation
+
+##### Data Storage
+
+##### Data Security 
+* How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services)
+
 
 
 ### Reserach Data Management Lifecycle + Technology
@@ -43,12 +57,5 @@ When you start to think about *how* you would actually engage with any of these 
 * There are many proprietary analysis tools; this document will focus on what you have access to free and/or through Yale
 
 
-### Version Control
 
-### Documentation
-
-### Data Storage
-
-### Data Security 
-* How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services)
 
