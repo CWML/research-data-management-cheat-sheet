@@ -6,6 +6,7 @@ The research data management lifecycle is an illustration of the research proces
 <img src="https://github.com/CWML/research-data-management-cheat-sheet/blob/main/images/research-data-lifecycle.png" alt="data lifecycle" width="600">
 
 ##### Project Planning
+At the start of any research project, you should think ahead about what data you will need to use (if any) during your research processes 
 
 ##### Data Creation / Collection
 
@@ -22,13 +23,18 @@ The research data management lifecycle is an illustration of the research proces
 ##### Version Control
 
 ##### Documentation
+Documentation can include any notes and annotations related to your research data that make your data understandable to others (as well as your future self). Maintaining accurate and useful documentation can make the difference between your data being reusable in future research senarios or not.
+
+Take a look at this additional information about [Codebooks, Data Dictionaries & ReadMe Files](https://github.com/sauuyer/Med-Lib-Data-Classes/blob/master/data-documentation/research_data_documentation.pdf) and email medicaldata@yale.edu with any questions. 
 
 ##### Data Storage
+When choosing a data storage solution, you should think about how often you will be using this data, if others will need to access this data too, how much a data storage solution will cost, the level of risk associated with your data, the size of your data, and more. [This interactive storage finder tool](https://storage-finder.yale.edu/) can help you navigate the various options available to you through Yale. 
 
 ##### Data Security 
 * How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services)
 
-
+##### Data Preservation
+Data Preservation = Data Documentation + Data Security + Data Storage
 
 ### Reserach Data Management Lifecycle + Technology
 When you start to think about *how* you would actually engage with any of these steps, different technology aspects come into play, along with themes including version control, documentation, and operational data storage. 
@@ -57,5 +63,12 @@ When you start to think about *how* you would actually engage with any of these 
 * There are many proprietary analysis tools; this document will focus on what you have access to free and/or through Yale
 
 
+### FAQs
+[What are file and folder naming best practises?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/file-and-folder-naming.md)
+[What if I want to make bulk changes to how my files are currently named?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/bulk-renaming-files.md)
+[What are best practises related to file organization?[(https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/file-organization.md) 
+[Where can I connect with peers engaging in biomedical data science research?](https://medicine.yale.edu/cbds/)
+[What about specific topics (training, software, hardware, and collaborative opportunities) in bioinformatics research?](https://library.medicine.yale.edu/bioinformatics)
 
+Have other questions? Email medicaldata@yale.edu 
 
