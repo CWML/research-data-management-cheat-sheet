@@ -10,6 +10,7 @@ At the start of any research project, you should think ahead about what data you
 
 ##### Data Creation / Collection
 Data might be collected from vendors, databases, or other researchers. If the data you are searching for does not exisit, you may need to collect it yourself from multiple sources, or you may need to create the data. 
+
 Support at Yale:
 * Reusing data from data repositories - [strategies for finding appropriate data repositories](https://library.medicine.yale.edu/research-data/find-datasets/data-repositories)
 * Reusing data associated with publications [strategies for finding research data for reuse](https://library.medicine.yale.edu/research-data/find-datasets/) 
@@ -17,15 +18,17 @@ Support at Yale:
 
 ##### Data Processing
 After data is collected or created, most likely you will need to process or clean the data in some way. Data processing and cleaning can involve, merging multiple datasets, selecting or filtering out specific portions of a dataset, standardizing categories found within a dataset, reorganizing how spreadsheets containing data are organized, and more. When you create data groups that result in aggregation, data processing can start to bleed into data analysis. 
+
 Support at Yale:
 * Data Support @ the Medical Library - email medicaldata@yale.edu 
 
 ##### Data Analysis
 Data analysis = generating findings from your data. 
+
 Support at Yale
 * Statistical help - [StatLab](https://marx.library.yale.edu/data-gis-statlab/statlab)
-* Bioinformatics help - Bioinformatics Hub(https://library.medicine.yale.edu/bioinformatics)
-* High Performance Computing & Parellel Computing - [YCRC](https://research.computing.yale.edu/) 
+* Bioinformatics help - [Bioinformatics Hub](https://library.medicine.yale.edu/bioinformatics)
+* High Performance Computing & Parellel Computing - [YCRC (Yale Center for Reserach Computing](https://research.computing.yale.edu/) 
 * Research & Analytics Clinics - [YCAS (Yale Center for Analytical Sciences)](https://publichealth.yale.edu/ycas/working/) 
 
 ##### Data Sharing / Retention 
@@ -38,7 +41,10 @@ Support at Yale
 ##### Version Control
 Version control allows you to see the change history of a file, and to restore a file to a previous iteration. You can apply a manual version control by adding dates or v1/v2/vfinal notations to a file name, or by writing a change log within a READme file. Cloud data storage systems like Box and Google Drive have version control capabilitites (Note: whenever you are exploring a data, or content management system, make a note to check if the system supports version control and how versions are retained).
 
-The most robust and independent way to maintain control over your file versioning is to apply a Version Control System like [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F). If you have questions about Git, or would like help getting started with Git or GitHub, email medicaldata@yale.edu.  
+The most robust and independent way to maintain control over your file versioning is to apply a Version Control System like [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F). 
+
+Support at Yale:
+* If you have questions about Git, or would like help getting started with Git or GitHub, email medicaldata@yale.edu.  
 
 ##### Documentation
 Documentation can include any notes and annotations related to your research data that make your data understandable to others (as well as your future self). Maintaining accurate and useful documentation can make the difference between your data being reusable in future research senarios or not.
@@ -51,8 +57,6 @@ When choosing a data storage solution, you should think about how often you will
 ##### Data Security 
 How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services)
 
-##### Data Preservation
-Data Preservation = Data Documentation + Data Security + Data Storage
 
 ### Reserach Data Management Lifecycle + Technology
 When you start to think about *how* you would actually engage with any of these steps, different technology aspects come into play, along with themes including version control, documentation, and operational data storage. 
@@ -80,6 +84,14 @@ When you start to think about *how* you would actually engage with any of these 
 ##### Data Analysis Tools
 * There are many proprietary analysis tools; this document will focus on what you have access to free and/or through Yale
 * Find software through the [Yale Software IT Library](https://your.yale.edu/yale-link/software-library) 
+* Microsoft Excel - [Excel funtions](https://www.excel-easy.com/data-analysis.html) | [Data processing/analysis in Excel](https://www.excel-easy.com/data-analysis.html)
+* Python - email medicaldata@yale.edu for a workshop or tutorial based on your research needs
+* R - email medicaldata@yale.edu for a workshop or tutorial based on your research needs
+
+##### Data Sharing / Retention Tools
+* [Interactive storage finder tool](https://storage-finder.yale.edu/)
+* Dryad - deposit research data for free through Yale. [More about Dryad](https://datadryad.org/stash#:~:text=Dryad%20is%20a%20nonprofit%20membership,Charges%20help%20ensure%20our%20sustainability.)
+* Zenodo - deposit research code and data. [More about Zenodo](https://about.zenodo.org/)
 
 
 ### FAQs
