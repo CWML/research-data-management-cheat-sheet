@@ -30,7 +30,7 @@ An important part of data analysis includes data visualization (i.e., graphs).
 Support at Yale
 * Statistical help - [StatLab](https://marx.library.yale.edu/data-gis-statlab/statlab)
 * Bioinformatics help - [Bioinformatics Hub](https://library.medicine.yale.edu/bioinformatics)
-* High Performance Computing & Parellel Computing - [YCRC (Yale Center for Reserach Computing](https://research.computing.yale.edu/) 
+* High Performance Computing & Parellel Computing - [YCRC (Yale Center for Research Computing](https://research.computing.yale.edu/) 
 * Research & Analytics Clinics - [YCAS (Yale Center for Analytical Sciences)](https://publichealth.yale.edu/ycas/working/) 
 * Help designing and creating data visualizations - email medicaldata@yale.edu 
 
@@ -38,6 +38,8 @@ Support at Yale
 *Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.* [Yale Policy 6001 Research Data & Materials Policy](https://your.yale.edu/policies-procedures/policies/6001-research-data-materials-policy#:~:text=Generally%2C%20research%20data%20and%20materials,for%20the%20project%20have%20been) 
 
 ## Research Data Management Lifecycle + Constant Themes
+In addition to the (sometimes iterative) stages you will progress through during the Research Data, there are also themes that you will need to consider during multiple, if not all, of these phases. 
+
 <img src="https://github.com/CWML/research-data-management-cheat-sheet/blob/main/images/research-data-lifecycle-themes.png" alt="data lifecycle" width="600">
 
 #### Version Control
@@ -51,10 +53,14 @@ Support at Yale:
 #### Documentation
 Documentation can include any notes and annotations related to your research data that make your data understandable to others (as well as your future self). Maintaining accurate and useful documentation can make the difference between your data being reusable in future research senarios or not.
 
-Take a look at this additional information about [Codebooks, Data Dictionaries & ReadMe Files](https://github.com/sauuyer/Med-Lib-Data-Classes/blob/master/data-documentation/research_data_documentation.pdf) and email medicaldata@yale.edu with any questions. 
+Support at Yale:
+* Take a look at this additional information about [Codebooks, Data Dictionaries & ReadMe Files](https://github.com/sauuyer/Med-Lib-Data-Classes/blob/master/data-documentation/research_data_documentation.pdf) and email medicaldata@yale.edu with any questions. 
 
 #### Data Storage
-When choosing a data storage solution, you should think about how often you will be using this data, if others will need to access this data too, how much a data storage solution will cost, the level of risk associated with your data, the size of your data, and more. [This interactive storage finder tool](https://storage-finder.yale.edu/) can help you navigate the various options available to you through Yale. 
+When choosing a data storage solution, you should think about how often you will be using this data, if others will need to access this data too, how much a data storage solution will cost, the level of risk associated with your data, the size of your data, and more. 
+
+Support at Yale:
+* [This interactive storage finder tool](https://storage-finder.yale.edu/) can help you navigate the various options available to you through Yale. 
 
 #### Data Security 
 How can you know which software are cleared for moderate or high risk data? (And what are the classifications of moderate or high risk data?) [Check with Yale Information Security](https://cybersecurity.yale.edu/approved-services)
