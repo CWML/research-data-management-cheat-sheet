@@ -6,6 +6,7 @@
 * Access a wide variety of training videos for [free through Yale via LinkedIn Learning](https://your.yale.edu/yale-link/linkedin-learning)
 * Data Management for Clinical Research (Coursera): [Landing Page](https://www.coursera.org/learn/clinical-data-management)
 * Health Information Literacy for Data Analytics Specialization (Coursera): [Landing Page](https://www.coursera.org/specializations/healthcare-information-literacy-data-analytics)
+* Library Carpentry trainings in Git, Unix Shell, Working with Data, and Open Refine. [Access for free](https://librarycarpentry.org/lc-overview/index.html)
 
 
 ### Training Opportunities at Yale
