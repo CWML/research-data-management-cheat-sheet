@@ -1,4 +1,4 @@
-# Best Practises: File Organizatino
+# Best Practises: File Organization
 
 * Organize your folders in a way that makes sense to you, your team (if you have one), and your workflows
 * Folder structures should be wider than they are deep (i.e., you do not want to need to drill deeply down within a file directory to find your files)
