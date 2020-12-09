@@ -94,7 +94,7 @@ When you start to think about *how* you would actually engage with any of these 
 
 
 ## FAQs
-* [Where can I find additional training opportunities?]() 
+* [Where can I find additional training opportunities?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/find-training.md) 
 * [What are file and folder naming best practises?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/file-and-folder-naming.md)
 * [What if I want to make bulk changes to how my files are currently named?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/bulk-renaming-files.md)
 * [What are best practises related to file organization?](https://github.com/CWML/research-data-management-cheat-sheet/blob/main/best-practices/file-organization.md) 
