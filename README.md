@@ -37,6 +37,8 @@ Support at Yale
 #### Data Sharing / Retention 
 *Generally, research data and materials that are commonly accepted in the scientific community as necessary to validate research findings must be retained by Yale researchers for three (3) years after publication of the findings or all required final reports (e.g., progress and financial) for the project have been submitted to the sponsor.* [Yale Policy 6001 Research Data & Materials Policy](https://your.yale.edu/policies-procedures/policies/6001-research-data-materials-policy#:~:text=Generally%2C%20research%20data%20and%20materials,for%20the%20project%20have%20been) 
 
+Data sharing refers to the process of making data public, typically via a data repository. Data retention refers to storing data so it remains usable, though not nessissarily available to the public. 
+
 ## Research Data Management Lifecycle + Constant Themes
 In addition to the (sometimes iterative) stages you will progress through during the Research Data, there are also themes that you will need to consider during multiple, if not all, of these phases. 
 
