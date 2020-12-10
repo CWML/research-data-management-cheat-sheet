@@ -75,6 +75,7 @@ When you start to think about *how* you would actually engage with any of these 
 
 #### Project Planning Tools
 * DMPTool - access and store templated data management plans. [Quick start guide](https://dmptool.org/help) 
+* To fill out a practise form that contains research data planning considerations, [visit this Google Form](https://forms.gle/KFpmQBCxp3mbXmwh7)
 
 #### Data Creation Tools
 * Core Research Facilities - Yale’s Core Research Facilities provide Yale researchers access to state of the art scientific instrumentation with the intent to keep Yale’s scientific research at the cutting edge.  Each Core employs highly trained staff that may provide training and assistance with use of instrumentation as well as aid in experimental design. 
