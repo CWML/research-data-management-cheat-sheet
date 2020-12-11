@@ -1,0 +1,23 @@
+When will you make the data available?
+
+What file formats will you use for your data, and why?
+
+What transformations will be necessary to prepare data for preservation/data sharing?
+
+What metadata/documentation will be submitted alongside the data?
+
+Will a data-sharing agreement be required? Where can I find sample agreements?
+
+How do you plan to provide access to your data?
+
+Which archive/repository/central database have you identified as a place to deposit data? 
+
+Do individual institutes within NIH have different data sharing plans
+
+Is funding available for the implementation of data sharing plans?
+
+
+---
+This plan is based on the "NIH-GEN: Generic" template provided by National Institutes of Health (NIH).
+Template version 4, published on 10 November 2020
+Text copy-pasted from the DMPTool
